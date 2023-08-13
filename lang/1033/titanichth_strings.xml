@@ -1,0 +1,129 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <titanichth>Titanichthys</titanichth>
+      <titanichth_stt>Titanichthys</titanichth_stt>
+      <titanichth_lower>the Titanichthys</titanichth_lower>
+      <titanichth_ltt>
+         <color r="255" g="248" b="178">
+            <b>Titanichthys</b>
+         </color>
+         <br/>
+         Click to place a Titanichthys.
+      </titanichth_ltt>
+      <!--gift names-->
+      <titanichth_Gift>Titanichthys</titanichth_Gift>
+      <titanichth_Gift_stt>Titanichthys</titanichth_Gift_stt>
+      <titanichth_Gift_lower>the Titanichthys</titanichth_Gift_lower>
+      <titanichth_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Titanichthys</b>
+         </color>
+         <br/>.
+      </titanichth_Gift_ltt>
+</entityname>
+<zoopedia_titanichth>
+ <entry>Titanichthys</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/titanichth/titanichth_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status: 
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Temperate Oceans<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: armored fish <i>(Placodermi)</i><br/>Order: Coccosteina  <i>(Arthrodiriformes)</i><br/>Family: <i>Titanichthyidae</i><br/>Genus: <i>Titanichthys</i><br/>Species: <i>E. giganteus</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Titanichthys Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is said that this species could reach up to 8 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It lived in Late Devonian.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Titanichthys is a filter feeder.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Titanichthys in challenge or campaign games, you must earn a 4 star zoo fame rating for your zoo. 
+   </color>
+<p/>Titanichthys agassizi was a giant, aberrant marine placoderm from the Late Devonian. It approached Dunkleosteus in size and build. Unlike its relative, however, T. agassizi had small, ineffective-looking mouth-plates that lacked a sharp cutting edge. It is presumed that the beast was a filter feeder that used its capacious mouth to swallow or inhale schools of small, anchovy-like fish, or possibly krill-like zooplankton, and that the mouth-plates retained the prey while allowing the water to escape as it closed its mouth. When the first specimens were found in Morocco by geologist Henri Termier, Titanichthys was originally placed within the genus Gorgonichthys - that is, after Termier was able to convince his colleagues that the bone scraps were of a placoderm, and not a dinosaur. A junior synonym is Brontichthys, which should not be confused with another arthrodire, Bruntonichthys of the Dinichthyidae.
+
+<p/>The Cleveland Shale member of the Ohio Shale Formation contains one of the richest Late Devonian fish assemblages in the world. This fauna is dominated by sharks and large-bodied arthrodires including the well known Dunkleosteus and the closely related, but poorly described Titanichthys. The genus Titanichthys was established over a century ago, but due to the fragmentary nature of most specimens its relationship to other arthrodires is poorly understood. A recently discovered specimen referred to Titanichthys from the Cleveland Shale Member of the Rocky River area of Ohio has provided new information allowing for a revised description of the genus and a more complete phylogenetic analysis of these arthrodires.The new, mostly complete specimen is articulated and includes several cranial plates previously undescribed in American Titanichthys specimens; these include the rostral, postmarginal, posterior superognathal, postsuborbital and submarginal plates, with a possible fragment of a sclerotic ring. The anterior border of median dorsal plate preserves a narrow, deep embayment in addition to the normal emargination seen in this taxon and other derived arthrodires. This deep embayment has not been previously observed in Titanichthys or other related taxa, and thus may represent an autapomorphy that can only be confirmed by the discovery of new specimens.
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from <color r="255" g="231" b="135">Wikipedia and other sites</color>Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_titanichth>
+</ZT2Strings>
